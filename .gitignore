@@ -30,7 +30,6 @@ build
 
 # misc
 .DS_Store
-.env*
 
 # debug
 npm-debug.log*
@@ -41,3 +40,4 @@ yarn-error.log*
 
 # Local Netlify folder
 .netlify
+config.bat
